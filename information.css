@@ -1,0 +1,18 @@
+.info{
+	border-background: red;
+	border: 5px solid yellow;
+	border-bottom-left-radius: 2px;
+	padding: 20px;
+}
+nav{
+	border-color: red;
+}
+b{
+	text-underline:all;
+	border-left: 2px blue;
+	color:yellow;
+}
+body{
+	background-color:blue ;
+	background-size: 20px;
+}
